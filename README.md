@@ -9,5 +9,5 @@ Fonctionnalité du site web:
 
 3- URL Scanner  offre des conseils et des bons  pratiques pour se protéger contre plusieurs types des attaques
 
-3- URL Scanner permet au utilisateur de consulter l’historique des scans réalisés pour un URL particulier 
+3- URL Scanner permet à l'utilisateur de consulter l’historique des scans réalisés pour un URL particulier 
 
