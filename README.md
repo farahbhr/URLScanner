@@ -1,13 +1,12 @@
 # URLScanner
 
-Fonctionnalité du site web: 
+Website's functionality:
 
+1- URL Scanner scans a website's URL and determines if it is vulnerable to SQL Injection or Cross Site Scripting (XSS)
 
-1- URL Scanner scanne l’url d’un site est détermine s’il est vulnérable au injection SQL ou au cross site Scripting
+2- URL Scanner offers the site's HTTP Header while scanning
 
-2- URL Scanner offre HTTP header du site web lors du scan 
+3- URL Scanner offers tips how to protect your website against many attacks
 
-3- URL Scanner  offre des conseils et des bons  pratiques pour se protéger contre plusieurs types des attaques
-
-3- URL Scanner permet à l'utilisateur de consulter l’historique des scans réalisés pour un URL particulier 
+3- URL Scanner enables the user to view history of the scans performed and so to view a list of vulnerable websites
 
