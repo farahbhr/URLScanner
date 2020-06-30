@@ -1,0 +1,7 @@
+CREATE TABLE stat(
+   id INT AUTO_INCREMENT,
+   url VARCHAR(200),
+   result VARCHAR(5000),
+   context VARCHAR(5000),
+   PRIMARY KEY(id)
+);
