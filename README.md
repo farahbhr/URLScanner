@@ -1,6 +1,6 @@
 # URLScanner
 
-Website's functionality:
+Website's functionalities:
 
 1- URL Scanner scans a website's URL and determines if it is vulnerable to SQL Injection or Cross Site Scripting (XSS)
 
